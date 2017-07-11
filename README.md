@@ -19,14 +19,18 @@ VolumeControl is currently only supported on:
 - SmartView
 
 # Known Issues
-- There have been problems reported with Roku on iPhone 7 devices running iOS 10.3.2. 
+- None at this time. Feedback would be appreciated.
 
 # Release Notes
+### V1.0.2
+- Fixed Roku performance issues on iPhone 7 devices.
+- Fixed crashes for SmartView Devices when closing and reopening app. 
+
 ### V1.0.1
-- Added fixes for crashes when casting to SmartView devices. 
+- Added fixes for crashes when casting to SmartView Devices. 
 
 ### V1.0.0
 - Initial release
 
-[Developer Documentation](http://iossdk.playmigo.com/v1.0.0/index.html)
-[API Documentation](http://iossdk.playmigo.com/v1.0.0/api_docs/index.html)
+[Developer Documentation](http://iossdk.playmigo.com/v1.0.2/index.html)
+[API Documentation](http://iossdk.playmigo.com/v1.0.2/api_docs/index.html)
